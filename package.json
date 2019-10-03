@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Node.js &amp; MySQL",
+  "main": "bamzonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenhaowu27/bamazon.git"
+  },
+  "keywords": [],
+  "author": "Wenhao Wu <wenhaow@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenhaowu27/bamazon/issues"
+  },
+  "homepage": "https://github.com/wenhaowu27/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  }
+}

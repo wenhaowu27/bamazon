@@ -1,0 +1,12 @@
+item_id,product_name,product_sales,department_name,price,stock_quantity
+-------,----------------------------------,-------------,---------------,-----,--------------
+1,Uncharted 4,7242.75,Video Games,49.95,105
+2,DOOM,0,Video Games,59.99,200
+3,Crate of Spam,0,Food and Drink,24.5,50
+4,Cool Shades,0,Apprael,75,5
+5,Worn Denim Jeans,0,Apprael,54.25,35
+6,Survival Towel,0,Necessities,42.42,42
+7,Bill and Ted's Excellent Advanture,0,Films,15,25
+8,Mad Max: Fury Road,0,Films,25.5,57
+9,Monopoly,152.5,Board Games,30.5,30
+10,Yahtzee,0,Board Games,19.95,23
