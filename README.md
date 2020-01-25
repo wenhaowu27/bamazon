@@ -47,12 +47,14 @@ In this activity, I have created an Amazon-like storefront with the MySQL skills
 ![Image of Bamazon Store catelog](./images/customer_check_catelog.jpg)
 ![Video of Bamazon Store catelog](./images/customer_check_catelog.mp4)
 ![Image of Bamazon customer buy from catelog before](./images/customer_before_buy.jpg)
-![Image of Bamazon customer buy from catelog before](customer_after_buy.jpg)
-![Image of Bamazon customer buy from catelog before](customer_not_enough_inventory.jpg)
+![Image of Bamazon customer buy from catelog before](./images/customer_after_buy.jpg)
+![Image of Bamazon customer buy from catelog before](./images/customer_not_enough_inventory.jpg)
 
 - - -
 
-### Challenge #2: Manager View (Next Level)
+### Challenge: Manager View (Next Level)
+
+### THe most challenge for me is to create and table to display category. I made my own function to read items from MySQL then run the write white space function. I later found there is console..log table npm package can diliver exactly same result but I stay with my own code.
 
 * Create a new Node application called `bamazonManager.js`. Running this application will:
 
